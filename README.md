@@ -19,9 +19,8 @@ Seja bem vindo ao meu perfil, vou tentar mostrar um pouco sobre mim.
   * **Conhecimento**: HTML-CSS-BOOTSTRAP
   * **Universidade**: Sistemas de informação - UFJF
 
-<div align="center">
+<div>
   <a href="https://github.com/Kaymartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaymartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaymartins&layout=compact&langs_count=100&count_private=true&theme=dark"/>
 </div>
 
