@@ -15,7 +15,6 @@ Seja bem vindo ao meu perfil, vou tentar mostrar um pouco sobre mim.
   * **Aprendendo**: PHP
   * **Conhecimento**: HTML-CSS-BOOTSTRAP/PHP/MYSQL
   * **Universidade**: Sistemas de informação - UFJF
-  * **Deixei a conta aberta no pc do lab**
 
 <div>
   <a href="https://github.com/Kaymartins">
