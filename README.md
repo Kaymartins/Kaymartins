@@ -12,8 +12,8 @@ Seja bem vindo ao meu perfil, vou tentar mostrar um pouco sobre mim.
   
   * **Nome**: Kayan Martins De Freitas     
   * **Idade**: 19
-  * **Aprendendo**: PHP
-  * **Conhecimento**: HTML-CSS-BOOTSTRAP/PHP/MYSQL
+  * **Aprendendo**: Laravel
+  * **Conhecimento**: HTML-CSS-BOOTSTRAP/PHP/LARAVEL/MYSQL
   * **Universidade**: Sistemas de informação - UFJF
 
 <div>
