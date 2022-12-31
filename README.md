@@ -1,18 +1,12 @@
-<div>
-    <a target='_blank' href="https://www.instagram.com/kayan_martins_/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-</div>
-
 ## Olá !!
 
-Seja bem vindo ao meu perfil, vou tentar mostrar um pouco sobre mim.
+Seja bem vindo ao meu perfil, vou mostrar um pouco sobre mim.
 
 ## Informações
   
   * **Nome**: Kayan Martins De Freitas     
   * **Idade**: 19
-  * **Aprendendo**: Laravel
+  * **Aprendendo**: VueJs
   * **Conhecimento**: HTML-CSS-BOOTSTRAP/PHP/LARAVEL/MYSQL
   * **Universidade**: Sistemas de informação - UFJF
 
