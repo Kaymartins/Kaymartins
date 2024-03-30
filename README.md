@@ -12,6 +12,6 @@ Seja bem vindo ao meu perfil, vou mostrar um pouco sobre mim.
 
 <div>
   <a href="https://github.com/Kaymartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaymartins&layout=compact&langs_count=100&count_private=true&theme=dark"/>
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaymartins&layout=compact&langs_count=100&count_private=true&theme=dark"/>
 </div>
 
